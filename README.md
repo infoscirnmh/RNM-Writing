@@ -1,6 +1,6 @@
 # Capstone Project: Digital Library Creation
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
+A sample project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
